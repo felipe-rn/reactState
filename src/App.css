@@ -1,0 +1,26 @@
+.counter {
+  font-size: 1.5em;
+  color: #fff;
+  font-weight: bold;
+  margin: 0.5em;
+  padding: 0.5em;
+  border: 1px solid #333;
+  border-radius: 5px;
+  display: inline-block;
+}
+
+.buttonsList {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 1em;
+  gap: 1rem;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
